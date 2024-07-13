@@ -1,8 +1,8 @@
-## 👋Hi, I'm Aditya Patil
+## 👋 Hi, I'm Aditya Patil
 
 Here are some ideas to get you started:
 - 👨‍💻 A Coding Enthusiast based in Mumbai, Indi.
-- 📫 How to reach me:[patiladitya2627@gmail.com](mailto:patiladitya2627@gmail.com)
+- 📫 How to reach me: [patiladitya2627@gmail.com](mailto:patiladitya2627@gmail.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
