@@ -1,8 +1,5 @@
 ## 👋Hi, I'm Aditya Patil
 
-<!--
-**AdityaPatil2006/AdityaPatil2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 👨‍💻 A Coding Enthusiast based in Mumbai, Indi.
 - 📫 How to reach me:[patiladitya2627@gmail.com](mailto:patiladitya2627@gmail.com)
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
