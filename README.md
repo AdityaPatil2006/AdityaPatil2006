@@ -1,7 +1,13 @@
 # 👋 Hi, I'm Aditya Patil
 
 ## 💫 About Me:
-🔭 I’m currently working on: Coffee Website (React.js)<br>🌱 I’m currently learning: MERN stack
+
+I'm a passionate developer currently diving deep into the world of web development. Here's a bit about what I'm up to:
+
+- 🔭 **Current Project:** I'm working on a Coffee Website using **React.js**.
+- 🌱 **Learning Journey:** I'm on a mission to master the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
+
+When I'm not coding, you can find me exploring new tech trends, sipping on a good cup of coffee, or sharing moments on Instagram. Let's connect and grow together!
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_patil727)
@@ -52,8 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPatil2006&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Aditya's Top Languages" />
 </p>
 
-## 🔝 Top Contributed Repo:
+### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AdityaPatil2006&limit=5&theme=monokai&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
-
