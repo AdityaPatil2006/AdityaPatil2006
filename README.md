@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPatil2006&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Aditya's Top Languages" />
 </p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AdityaPatil2006&limit=5&theme=monokai&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
