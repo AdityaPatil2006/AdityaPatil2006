@@ -10,9 +10,15 @@ I'm a passionate developer currently diving deep into the world of web developme
 When I'm not coding, you can find me exploring new tech trends, sipping on a good cup of coffee, or sharing moments on Instagram. Let's connect and grow together!
 
 ## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_patil727)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AdityaPatil2006)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patiladitya2627@gmail.com)
+<a href="https://instagram.com/aditya_patil727">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="40" style="margin-right:10px;">
+</a>
+<a href="https://github.com/AdityaPatil2006">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" height="40" style="margin-right:10px;">
+</a>
+<a href="mailto:patiladitya2627@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="40">
+</a>
 
 ## 💻 Tech Stack:
 ### Frontend:
