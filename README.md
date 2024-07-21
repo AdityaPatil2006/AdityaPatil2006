@@ -4,8 +4,8 @@
 
 I'm a passionate developer currently diving deep into the world of web development. Here's a bit about what I'm up to:
 
-- 🔭 <h2>Current Project:</h2> I'm working on a Coffee Website using **React.js**.
-- 🌱 <h2>Learning Journey:</h2> I'm on a mission to master the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
+- 🔭 Current Project:I'm working on a Coffee Website using **React.js**.
+- 🌱 Learning Journey: I'm on a mission to master the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
 
 When I'm not coding, you can find me exploring new tech trends, sipping on a good cup of coffee, or sharing moments on Instagram. Let's connect and grow together!
 
