@@ -11,6 +11,8 @@ When I'm not coding, you can find me exploring new tech trends, sipping on a goo
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_patil727)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AdityaPatil2006)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](patiladitya2627@gmail.com)
 
 ## 💻 Tech Stack:
 ### Frontend:
