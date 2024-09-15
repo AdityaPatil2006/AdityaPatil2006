@@ -22,6 +22,7 @@ When I'm not coding, you can find me exploring new tech trends, sipping on a goo
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI Logo](https://camo.githubusercontent.com/843f475ecd76831b98d17db8ff059656c45110e72d12eb0df64a7efba0ab6e98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368616b72612d2d55492d3331393739353f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72612d7569266c6f676f436f6c6f723d7768697465)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend:
